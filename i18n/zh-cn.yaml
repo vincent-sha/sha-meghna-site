@@ -29,3 +29,23 @@
   translation: 联系我们
 - id: themefisher
   translation: Themefisher
+- id: categories
+  translation: 分类
+- id: tags
+  translation: 标签
+- id: series
+  translation: 系列
+- id: category
+  translation: 分类
+- id: tag
+  translation: 标签
+- id: postedIn
+  translation: 发布于
+- id: taggedIn
+  translation: 标签
+- id: viewAllCategories
+  translation: 查看所有分类
+- id: viewAllTags
+  translation: 查看所有标签
+- id: relatedPosts
+  translation: 相关文章

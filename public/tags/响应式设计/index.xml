@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>响应式设计 on Meghna</title>
+    <link>http://localhost:1313/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%AE%BE%E8%AE%A1/</link>
+    <description>Recent content in 响应式设计 on Meghna</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jan 2024 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%93%8D%E5%BA%94%E5%BC%8F%E8%AE%BE%E8%AE%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>响应式网页设计最佳实践</title>
+      <link>http://localhost:1313/blog/responsive-design/</link>
+      <pubDate>Wed, 10 Jan 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/responsive-design/</guid>
+      <description>&lt;p&gt;在移动设备日益普及的今天，响应式网页设计已经成为 Web 开发的标准实践。本文将介绍响应式设计的核心概念和最佳实践。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

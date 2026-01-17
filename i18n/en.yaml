@@ -28,3 +28,23 @@
   translation: Contact
 - id: themefisher
   translation: Themefisher
+- id: categories
+  translation: Categories
+- id: tags
+  translation: Tags
+- id: series
+  translation: Series
+- id: category
+  translation: Category
+- id: tag
+  translation: Tag
+- id: postedIn
+  translation: Posted in
+- id: taggedIn
+  translation: Tagged
+- id: viewAllCategories
+  translation: View All Categories
+- id: viewAllTags
+  translation: View All Tags
+- id: relatedPosts
+  translation: Related Posts

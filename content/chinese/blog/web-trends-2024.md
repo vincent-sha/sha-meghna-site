@@ -5,6 +5,9 @@ image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
 author: 张伟
 description : "探索 2024 年 Web 开发领域的最新趋势和技术"
+categories: ["Web开发", "技术趋势"]
+tags: ["AI", "WebAssembly", "Serverless", "边缘计算", "TypeScript", "Web3"]
+series: ["Web开发系列"]
 ---
 
 随着技术的不断发展，Web 开发领域每年都会涌现新的趋势和技术。让我们一起看看 2024 年值得关注的 Web 开发趋势。

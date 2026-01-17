@@ -1,0 +1,40 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<!-- Start Categories List Section -->
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!-- section title -->
+        <div class="title text-center wow fadeInDown">
+          <h2>{{ i18n "all" }} <span class="color">{{ i18n "categories" }}</span></h2>
+          <div class="border-meghna"></div>
+          <p>{{ i18n "viewAllCategories" }}</p>
+        </div>
+        <!-- /section title -->
+      </div>
+
+      <div class="col-12">
+        <div class="row justify-content-center">
+          {{ range .Pages }}
+          <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
+            <a href="{{ .Permalink }}" class="d-block">
+              <div class="card h-100 hover-shadow">
+                <div class="card-body text-center">
+                  <h4 class="card-title mb-3">{{ .Title }}</h4>
+                  <p class="card-text text-muted">{{ len .Pages }} {{ if gt (len .Pages) 1 }}{{ i18n "viewAllPost" | lower }}{{ else }}{{ i18n "viewAllPost" | lower }}{{ end }}</p>
+                </div>
+              </div>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Categories List Section -->
+
+{{ end }}

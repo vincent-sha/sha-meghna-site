@@ -5,6 +5,9 @@ image_webp: images/blog/blog-post-5.webp
 image: images/blog/blog-post-5.jpg
 author: 张伟
 description : "掌握 Flexbox、Grid 等现代 CSS 布局技术"
+categories: ["Web开发", "设计"]
+tags: ["CSS", "Flexbox", "Grid", "布局", "响应式"]
+series: ["Web开发系列"]
 ---
 
 CSS 布局技术在近年来有了巨大的进步。本文将介绍现代 CSS 布局的核心技术和应用场景。

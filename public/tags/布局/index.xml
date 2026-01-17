@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>布局 on Meghna</title>
+    <link>http://localhost:1313/tags/%E5%B8%83%E5%B1%80/</link>
+    <description>Recent content in 布局 on Meghna</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 Dec 2023 11:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%B8%83%E5%B1%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS 现代布局技术</title>
+      <link>http://localhost:1313/blog/modern-css-layout/</link>
+      <pubDate>Fri, 15 Dec 2023 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/modern-css-layout/</guid>
+      <description>&lt;p&gt;CSS 布局技术在近年来有了巨大的进步。本文将介绍现代 CSS 布局的核心技术和应用场景。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

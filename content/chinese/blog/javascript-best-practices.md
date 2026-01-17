@@ -5,6 +5,9 @@ image_webp: images/blog/blog-post-6.webp
 image: images/blog/blog-post-6.jpg
 author: 李娜
 description : "编写高质量 JavaScript 代码的技巧和规范"
+categories: ["Web开发", "编程规范"]
+tags: ["JavaScript", "ES6", "最佳实践", "代码质量", "函数式编程"]
+series: ["Web开发系列"]
 ---
 
 编写优秀的 JavaScript 代码需要遵循一些最佳实践。本文将分享一些实用的技巧和规范。

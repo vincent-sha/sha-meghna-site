@@ -1,0 +1,33 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<!-- Start Tags Cloud Section -->
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <!-- section title -->
+        <div class="title text-center wow fadeInDown">
+          <h2>{{ i18n "all" }} <span class="color">{{ i18n "tags" }}</span></h2>
+          <div class="border-meghna"></div>
+          <p>{{ i18n "viewAllTags" }}</p>
+        </div>
+        <!-- /section title -->
+      </div>
+
+      <div class="col-12">
+        <div class="text-center py-5">
+          {{ range .Pages }}
+          <a href="{{ .Permalink }}" class="btn btn-sm btn-outline-primary m-1" style="font-size: {{ mul (len .Pages) 2 | add 12 }}px;">
+            {{ .Title }} <span class="badge badge-light">{{ len .Pages }}</span>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /Tags Cloud Section -->
+
+{{ end }}

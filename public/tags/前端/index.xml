@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>前端 on Meghna</title>
+    <link>http://localhost:1313/tags/%E5%89%8D%E7%AB%AF/</link>
+    <description>Recent content in 前端 on Meghna</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%89%8D%E7%AB%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo 网站搭建指南</title>
+      <link>http://localhost:1313/blog/hugo-guide/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/hugo-guide/</guid>
+      <description>&lt;p&gt;Hugo 是一个用 Go 语言编写的静态网站生成器，以其极快的构建速度和灵活的配置而闻名。本文将带您了解如何使用 Hugo 搭建自己的网站。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>前端性能优化实战</title>
+      <link>http://localhost:1313/blog/performance-optimization/</link>
+      <pubDate>Wed, 20 Dec 2023 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/performance-optimization/</guid>
+      <description>&lt;p&gt;网站性能直接影响用户体验和业务转化率。本文将分享前端性能优化的实战经验和技巧。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

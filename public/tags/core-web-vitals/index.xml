@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Core Web Vitals on Meghna</title>
+    <link>http://localhost:1313/tags/core-web-vitals/</link>
+    <description>Recent content in Core Web Vitals on Meghna</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 20 Dec 2023 16:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/core-web-vitals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端性能优化实战</title>
+      <link>http://localhost:1313/blog/performance-optimization/</link>
+      <pubDate>Wed, 20 Dec 2023 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/performance-optimization/</guid>
+      <description>&lt;p&gt;网站性能直接影响用户体验和业务转化率。本文将分享前端性能优化的实战经验和技巧。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

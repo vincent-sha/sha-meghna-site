@@ -1,0 +1,83 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<!-- Hero Image Section -->
+{{ $image := .Params.image | default .Params.Image }}
+{{ if $image }}
+{{ $imageURL := $image }}
+{{ if not (hasPrefix $image "http") }}
+  {{ $imageResource := resources.Get $image }}
+  {{ if $imageResource }}
+    {{ $imageURL = $imageResource.RelPermalink }}
+  {{ else }}
+    {{ $imageURL = $image | relURL }}
+  {{ end }}
+{{ end }}
+<section class="hero-area" style="background-image: url('{{ $imageURL }}'); background-size: cover; background-position: center; min-height: 400px;">
+</section>
+{{ end }}
+
+<section class="section {{ if not $image }}pt-5{{ end }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 offset-lg-2">
+        <!-- Post Title -->
+        <div class="text-center mb-4">
+          <h1 class="mb-3">{{ .Title }}</h1>
+          
+          <!-- Post Meta -->
+          <ul class="list-inline mb-3">
+            <li class="list-inline-item"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.Author }}</a></li>
+            <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+          </ul>
+          
+          <!-- Categories and Tags -->
+          <div class="mb-3">
+            {{ with .Params.categories }}
+            <div class="mb-2">
+              <small class="text-muted">{{ i18n "categories" }}:</small>
+              {{ range . }}
+              <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}/" class="badge" style="background-color: #007bff; color: #fff; text-decoration: none;">{{ . }}</a>
+              {{ end }}
+            </div>
+            {{ end }}
+            
+            {{ with .Params.tags }}
+            <div class="mb-2">
+              <small class="text-muted">{{ i18n "tags" }}:</small>
+              {{ range . }}
+              <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}/" class="badge" style="background-color: #6c757d; color: #fff; text-decoration: none;">{{ . }}</a>
+              {{ end }}
+            </div>
+            {{ end }}
+            
+            {{ with .Params.series }}
+            <div class="mb-2">
+              <small class="text-muted">{{ i18n "series" }}:</small>
+              {{ range . }}
+              <a href="{{ "series/" | relLangURL }}{{ . | urlize }}/" class="badge" style="background-color: #28a745; color: #fff; text-decoration: none;">{{ . }}</a>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        
+        <!-- Post Content -->
+        <div class="post-single-content">
+          {{ .Content }}
+        </div>
+        
+        {{ if site.Params.post_share }}
+        {{ partial "post-share.html" . }}
+        {{ end }}
+        <!-- comments -->
+        <div class="mt-5">
+          {{ template "_internal/disqus.html" . }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}

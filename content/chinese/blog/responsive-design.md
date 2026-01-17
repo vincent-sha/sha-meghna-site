@@ -5,6 +5,8 @@ image_webp: images/blog/blog-post-1.webp
 image: images/blog/blog-post-1.jpg
 author: 李娜
 description : "探讨现代响应式网页设计的核心原则和实用技巧"
+categories: ["Web开发", "设计"]
+tags: ["CSS", "响应式设计", "Flexbox", "Grid", "移动端"]
 ---
 
 在移动设备日益普及的今天，响应式网页设计已经成为 Web 开发的标准实践。本文将介绍响应式设计的核心概念和最佳实践。

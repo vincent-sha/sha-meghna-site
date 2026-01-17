@@ -83,6 +83,18 @@
   </url><url>
     <loc>http://localhost:1313/en/author/mark-dinn/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/series/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
     <xhtml:link
                 rel="alternate"

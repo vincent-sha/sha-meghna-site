@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexbox on Meghna</title>
+    <link>http://localhost:1313/tags/flexbox/</link>
+    <description>Recent content in Flexbox on Meghna</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 10 Jan 2024 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flexbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>响应式网页设计最佳实践</title>
+      <link>http://localhost:1313/blog/responsive-design/</link>
+      <pubDate>Wed, 10 Jan 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/responsive-design/</guid>
+      <description>&lt;p&gt;在移动设备日益普及的今天，响应式网页设计已经成为 Web 开发的标准实践。本文将介绍响应式设计的核心概念和最佳实践。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CSS 现代布局技术</title>
+      <link>http://localhost:1313/blog/modern-css-layout/</link>
+      <pubDate>Fri, 15 Dec 2023 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/modern-css-layout/</guid>
+      <description>&lt;p&gt;CSS 布局技术在近年来有了巨大的进步。本文将介绍现代 CSS 布局的核心技术和应用场景。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

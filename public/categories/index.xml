@@ -6,6 +6,49 @@
     <description>Recent content in Categories on Meghna</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web开发</title>
+      <link>http://localhost:1313/categories/web%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/web%E5%BC%80%E5%8F%91/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>教程</title>
+      <link>http://localhost:1313/categories/%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>设计</title>
+      <link>http://localhost:1313/categories/%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Wed, 10 Jan 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>技术趋势</title>
+      <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF/</link>
+      <pubDate>Fri, 05 Jan 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E8%B6%8B%E5%8A%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>性能优化</title>
+      <link>http://localhost:1313/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</link>
+      <pubDate>Wed, 20 Dec 2023 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>编程规范</title>
+      <link>http://localhost:1313/categories/%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Sun, 10 Dec 2023 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/categories/%E7%BC%96%E7%A8%8B%E8%A7%84%E8%8C%83/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

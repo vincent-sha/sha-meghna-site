@@ -5,6 +5,9 @@ image_webp: images/blog/blog-post-4.webp
 image: images/blog/blog-post-4.jpg
 author: 李娜
 description : "深入探讨前端性能优化的实用技巧和最佳实践"
+categories: ["Web开发", "性能优化"]
+tags: ["前端", "性能", "优化", "Core Web Vitals", "缓存"]
+series: ["Web开发系列"]
 ---
 
 网站性能直接影响用户体验和业务转化率。本文将分享前端性能优化的实战经验和技巧。

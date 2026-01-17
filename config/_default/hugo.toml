@@ -20,6 +20,12 @@ hasCJKLanguage = true #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Ko
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
 
+############################# Taxonomies ##############################
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
 ############################# Build ##############################
 [build]
 noJSConfigInAssets = false
@@ -39,6 +45,10 @@ target = '$1'
 ############################# Outputs ##############################
 [outputs]
 home = ["HTML", "RSS"]
+page = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML", "RSS"]
+term = ["HTML", "RSS"]
 
 ############################# Imaging ##############################
 [imaging]

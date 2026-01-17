@@ -5,6 +5,8 @@ image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
 author: 张伟
 description : "详细介绍如何使用 Hugo 快速搭建一个现代化的静态网站"
+categories: ["Web开发", "教程"]
+tags: ["Hugo", "静态网站", "Go", "前端"]
 ---
 
 Hugo 是一个用 Go 语言编写的静态网站生成器，以其极快的构建速度和灵活的配置而闻名。本文将带您了解如何使用 Hugo 搭建自己的网站。
