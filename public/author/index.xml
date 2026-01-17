@@ -5,21 +5,21 @@
     <link>http://localhost:1313/author/</link>
     <description>Recent content in Authors on Meghna</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-cn</language>
     <atom:link href="http://localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>John Doe</title>
-      <link>http://localhost:1313/author/john-doe/</link>
+      <title>李娜</title>
+      <link>http://localhost:1313/author/li-na/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/john-doe/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/author/li-na/</guid>
+      <description>&lt;p&gt;经验丰富的项目经理和产品设计师，擅长用户体验设计和团队协作。相信好的设计能够改变世界。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Mark Dinn</title>
-      <link>http://localhost:1313/author/mark-dinn/</link>
+      <title>张伟</title>
+      <link>http://localhost:1313/author/zhang-wei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/mark-dinn/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.&#xA;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/author/zhang-wei/</guid>
+      <description>&lt;p&gt;资深技术专家，拥有超过 10 年的软件开发和项目管理经验。热衷于探索新技术，致力于为客户提供最优质的解决方案。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

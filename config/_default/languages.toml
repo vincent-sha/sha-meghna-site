@@ -1,26 +1,21 @@
+################################### Chinese language #####################################
+[zh-cn]
+languageName = "中文"
+languageCode = "zh-cn"
+contentDir = "content/chinese"
+weight = 1
+[zh-cn.params]
+home = "首页"
+copyright = "版权所有 &copy; 2020 由 [Themefisher](https://themefisher.com) 设计 & [Gethugothemes](https://gethugothemes.com) 开发"
+
+
+
 ################################### English language #####################################
 [en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
+weight = 2
 [en.params]
 home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-
-
-################################### French language #####################################
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-[fr.params]
-home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-
-
-
-
-

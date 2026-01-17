@@ -1,0 +1,40 @@
+################### Chinese Navigation ########################
+[[main]]
+name = "关于"
+url = "#about"
+weight = 1
+
+[[main]]
+name = "服务"
+url = "#services"
+weight = 2
+
+[[main]]
+name = "作品集"
+url = "#portfolio"
+weight = 3
+
+[[main]]
+name = "团队"
+url = "#team"
+weight = 4
+
+[[main]]
+name = "价格"
+url = "#pricing"
+weight = 5
+
+[[main]]
+name = "博客"
+url = "#blog"
+weight = 6
+
+[[main]]
+name = "联系"
+url = "#contact"
+weight = 7
+
+[[main]]
+name = "themefisher"
+url = "https://themefisher.com/"
+weight = 8

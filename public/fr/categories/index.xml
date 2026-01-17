@@ -5,7 +5,7 @@
     <link>http://localhost:1313/fr/categories/</link>
     <description>Recent content in Categories on Meghna</description>
     <generator>Hugo</generator>
-    <language>fr-fr</language>
+    <language>fr</language>
     <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

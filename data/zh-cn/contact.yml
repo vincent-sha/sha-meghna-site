@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : 联系我们
+  subtitle : 联系方式
+  content : 如果您有任何问题或想法，欢迎随时与我们联系。我们的团队将竭诚为您服务，为您提供专业的咨询和支持。
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "中国上海市浦东新区世纪大道 1000 号"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "电话: +86-21-1234-5678"
+      
+    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+      info : "传真: +86-21-1234-5679"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "邮箱: hello@meghna.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "您的姓名"
+    email : "您的邮箱"
+    subject : "主题"
+    message : "留言内容"
+    submit : "提交"

@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : 关于我们
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : 我们富有创造力
+    content : 我们的团队充满创意，能够为您的项目带来独特的视角和创新的解决方案。
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : 我们很专业
+    content : 凭借多年的行业经验，我们为客户提供专业、可靠的服务和技术支持。
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : 我们是天才
+    content : 我们不断学习和创新，追求卓越，为客户创造超越期待的价值。

@@ -1,0 +1,26 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_image : images/backgrounds/bg-testimonial.jpg
+  bg_image_webp : images/backgrounds/bg-testimonial.webp
+  testimonial_item :
+    # testimonial item loop
+    - name : 陈明
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : 2023年12月26日
+      content : 与这个团队合作非常愉快，他们的专业性和创新能力令人印象深刻。项目按时交付，质量超出预期，强烈推荐！
+      
+    # testimonial item loop
+    - name : 赵丽
+      image : images/client/client-2.jpg
+      image_webp : images/client/client-2.webp
+      date : 2023年12月26日
+      content : 非常满意的合作体验！团队响应迅速，沟通顺畅，完全理解我们的需求并提供了完美的解决方案。
+      
+    # testimonial item loop
+    - name : 孙建国
+      image : images/client/client-1.jpg
+      image_webp : images/client/client-1.webp
+      date : 2023年12月26日
+      content : 他们的专业水平和服务态度都非常出色，帮助我们的网站实现了质的飞跃，用户反馈非常好。

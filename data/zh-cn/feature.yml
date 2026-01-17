@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : 我们是一家数字设计机构
+  content : "我们专注于创造卓越的数字体验，通过创新的设计和技术为客户提供最优质的解决方案。"
+  feature_item : 
+      # feature item loop
+    - title : SEO 优化
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 我们的网站都经过专业的 SEO 优化，帮助您在搜索引擎中获得更好的排名。
+      
+      # feature item loop
+    - title : 易于定制
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : 灵活的设计架构，让您可以轻松定制网站的各个方面，满足个性化需求。
+
+      # feature item loop
+    - title : 性能优化
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : 注重网站性能，确保快速的加载速度和流畅的用户体验。
+      
+      # feature item loop
+    - title : 响应式布局
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : 完美适配各种设备和屏幕尺寸，提供一致的浏览体验。
+

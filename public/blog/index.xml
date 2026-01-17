@@ -5,71 +5,50 @@
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Meghna</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Jan 2024 10:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>http://localhost:1313/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-8/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
+      <title>Hugo 网站搭建指南</title>
+      <link>http://localhost:1313/blog/hugo-guide/</link>
+      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/hugo-guide/</guid>
+      <description>&lt;p&gt;Hugo 是一个用 Go 语言编写的静态网站生成器，以其极快的构建速度和灵活的配置而闻名。本文将带您了解如何使用 Hugo 搭建自己的网站。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>http://localhost:1313/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
-      <guid>http://localhost:1313/blog/installation/</guid>
-      <description>&lt;h2 id=&#34;install-this-template-by-following-those-simple-steps&#34;&gt;Install this template by following those simple steps:&lt;/h2&gt;&#xA;&lt;h3 id=&#34;step-1--hugo-installation&#34;&gt;STEP-1 : Hugo installation&lt;/h3&gt;&#xA;&lt;p&gt;Check this link below for install hugo on your computer.&#xA;&lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;hugo install documentation&lt;/a&gt;&lt;/p&gt;</description>
+      <title>响应式网页设计最佳实践</title>
+      <link>http://localhost:1313/blog/responsive-design/</link>
+      <pubDate>Wed, 10 Jan 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/responsive-design/</guid>
+      <description>&lt;p&gt;在移动设备日益普及的今天，响应式网页设计已经成为 Web 开发的标准实践。本文将介绍响应式设计的核心概念和最佳实践。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-1/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
+      <title>Web 开发趋势 2024</title>
+      <link>http://localhost:1313/blog/web-trends-2024/</link>
+      <pubDate>Fri, 05 Jan 2024 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/web-trends-2024/</guid>
+      <description>&lt;p&gt;随着技术的不断发展，Web 开发领域每年都会涌现新的趋势和技术。让我们一起看看 2024 年值得关注的 Web 开发趋势。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-2/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
+      <title>前端性能优化实战</title>
+      <link>http://localhost:1313/blog/performance-optimization/</link>
+      <pubDate>Wed, 20 Dec 2023 16:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/performance-optimization/</guid>
+      <description>&lt;p&gt;网站性能直接影响用户体验和业务转化率。本文将分享前端性能优化的实战经验和技巧。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-3/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
+      <title>CSS 现代布局技术</title>
+      <link>http://localhost:1313/blog/modern-css-layout/</link>
+      <pubDate>Fri, 15 Dec 2023 11:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/modern-css-layout/</guid>
+      <description>&lt;p&gt;CSS 布局技术在近年来有了巨大的进步。本文将介绍现代 CSS 布局的核心技术和应用场景。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-4/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-5/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-6/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simple Blog Post</title>
-      <link>http://localhost:1313/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      <guid>http://localhost:1313/blog/simple-blog-post-7/</guid>
-      <description>&lt;p&gt;Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.&lt;/p&gt;</description>
+      <title>JavaScript 最佳实践</title>
+      <link>http://localhost:1313/blog/javascript-best-practices/</link>
+      <pubDate>Sun, 10 Dec 2023 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/blog/javascript-best-practices/</guid>
+      <description>&lt;p&gt;编写优秀的 JavaScript 代码需要遵循一些最佳实践。本文将分享一些实用的技巧和规范。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

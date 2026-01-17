@@ -1,0 +1,76 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : 我们的作品
+  portfolio_item :
+    # portfolio item loop
+    - name : 标签设计
+      image : images/portfolio/portfolio-1.jpg
+      image_webp : images/portfolio/portfolio-1.webp
+      categories : ["设计"]
+      content : 创意标签设计，为产品增添独特魅力。
+      link : "https://themefisher.com"
+      
+    # portfolio item loop
+    - name : 音响系统
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["开发"]
+      content : 高品质音响系统界面开发，提供卓越用户体验。
+      link : ""
+      
+    # portfolio item loop
+    - name : 时钟产品
+      image : images/portfolio/portfolio-3.jpg
+      image_webp : images/portfolio/portfolio-3.webp
+      categories : ["设计", "开发"]
+      content : 现代简约的时钟产品设计与开发。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 瓶身标签
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["摄影", "开发"]
+      content : 精美的瓶身标签设计，展现品牌特色。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 购物袋
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["设计"]
+      content : 环保时尚的购物袋设计方案。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 标签设计
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["摄影"]
+      content : 专业的产品摄影与标签设计服务。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 名片设计
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["开发"]
+      content : 专业的商务名片设计，彰显企业形象。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 文具设计
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["设计", "开发"]
+      content : 完整的企业文具设计解决方案。
+      link : "#"
+      
+    # portfolio item loop
+    - name : 品牌标识
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["设计", "摄影"]
+      content : 独特的品牌标识设计，助力企业形象塑造。
+      link : "#"

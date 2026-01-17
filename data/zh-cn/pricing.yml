@@ -1,0 +1,64 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : 我们的套餐
+  pricing_table :
+    # pricing table loop
+    - name : 免费版
+      price : ¥99
+      unit : 月
+      services:
+        - 1GB 磁盘空间
+        - 10 个邮箱账户
+        - 脚本安装器
+        - 1 GB 存储空间
+        - 10 GB 带宽
+        - 24/7 技术支持
+      button:
+        label : "注册"
+        link : "#"
+      
+    # pricing table loop
+    - name : 银牌版
+      price : ¥299
+      unit : 月
+      services:
+        - 5GB 磁盘空间
+        - 50 个邮箱账户
+        - 脚本安装器
+        - 5 GB 存储空间
+        - 50 GB 带宽
+        - 24/7 技术支持
+      button:
+        label : "注册"
+        link : "#"
+        
+    # pricing table loop
+    - name : 金牌版
+      price : ¥599
+      unit : 月
+      services:
+        - 10GB 磁盘空间
+        - 100 个邮箱账户
+        - 脚本安装器
+        - 10 GB 存储空间
+        - 100 GB 带宽
+        - 24/7 技术支持
+      button:
+        label : "注册"
+        link : "#"
+        
+    # pricing table loop
+    - name : 白金版
+      price : ¥999
+      unit : 月
+      services:
+        - 无限磁盘空间
+        - 无限邮箱账户
+        - 脚本安装器
+        - 无限存储空间
+        - 无限带宽
+        - 24/7 技术支持
+      button:
+        label : "注册"
+        link : "#"

@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : 我们的技能
+  subtitle : 我们精通各种 Web 和数字营销工具。
+  content : 我们的团队拥有丰富的技术储备和实战经验，能够为客户提供全方位的数字化解决方案，从策划到设计，从开发到运营，我们都能胜任。
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  业务拓展
+      percent : 90%
+      
+    # skill item loop
+    - name :  数据分析
+      percent : 70%
+      
+    # skill item loop
+    - name :  设计
+      percent : 80%
+      
+    - name :  iOS 开发
+      percent : 95%
+      
+    # skill item loop
+    - name :  Android 开发
+      percent : 75%
